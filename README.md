@@ -31,14 +31,7 @@ Traceback (most recent call last):
     display = pygame.display.set_mode((width, height))
 pygame.error: No available video device
 ```
-## Anggota Kelompok RD-07
-|        NAMA         |     NIM    |
-| ------------------- | ---------- |
-| Pandu Firmanto      | 120140020  |
-| Nashirotul Maftuha  | 120140031  |
-| Adi Sulaksono       | 120140038  |
-| Lidia Alvionisya    | 120140042  |
-| Devi Kurnia         | 120140060  |
-| Hanif Putra Agusta  | 120140120  |
+
+| Kevin Simorangkir  | 121140150  |
 
 - Beta Ver. 0.1.2
